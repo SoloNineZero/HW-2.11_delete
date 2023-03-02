@@ -47,7 +47,6 @@
 			isa = PBXGroup;
 			children = (
 				A8461B7229AFD95A005FAE84 /* HW-2.11 */,
-				A8461B9329B0767E005FAE84 /* Services */,
 				A8461B7129AFD95A005FAE84 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -63,6 +62,7 @@
 		A8461B7229AFD95A005FAE84 /* HW-2.11 */ = {
 			isa = PBXGroup;
 			children = (
+				A8461B9329B0767E005FAE84 /* Services */,
 				A8461B8C29AFDA8F005FAE84 /* Models */,
 				A8461B8929AFDA0B005FAE84 /* App */,
 				A8461B8A29AFDA14005FAE84 /* Storyboards */,
